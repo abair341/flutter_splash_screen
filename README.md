@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_splash_screen/blob/master/splash_1.jpg?raw=true)
+
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_splash_screen/blob/master/splash_2.jpg?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
